@@ -16,8 +16,8 @@ M1M2M3), including:
 - ## Contents
 
 notebooks/
-├── digital_twin_kpi_vision_demo.ipynb   # runnable notebook
-└── digital_twin_kpi_vision_demo.html    # static viewable export, no install needed
+├── digital_twin_kpi.ipynb   # runnable notebook
+└── digital_twin_kpi.html    # static viewable export, no install needed
 
 ## Data disclaimer
 
